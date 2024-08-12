@@ -19,4 +19,4 @@ Sometimes there are too many Docker images on your machine and you need to remov
 
 ## turnoffmouseaccel.sh
 
-Because MacOS hid this setting deep in it's configs and I didn't want to look it up each time. 
+Because mouse aceleration is bad and MacOS hid this setting deep in it's configs.
